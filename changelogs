@@ -1,0 +1,17 @@
+22.10.2024 - 1.0.0
+----------------------------
+New Features:
+- Hover effect on the links for desktop (header)
+- Bundles & Save Carousel above "Shop by Category" (homepage)
+- Share button on product cards
+
+Fixed Bugs:
+- Add to Cart postioning should be symmetrical (homepage)
+- Fix the swipe indicator button from the shop by category carosuel (homepage)
+- Fix Carousel Arrow overlapping on header (homepage)
+- Product Card Sizing Fix on Small Screen Mobiles (sitewide)
+
+Other Changes:
+- PageFly cleanup
+- Created Bundle Products
+- Created Automated Bundle Collection
