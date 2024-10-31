@@ -1,14 +1,38 @@
+29.10.2024 - 1.0.2
+----------------------------
+New Features:
+- Comfort Strip (product page)
+
+Fixed Bugs:
+- Rename "Estimated Total" to "Subtotal" (cart)
+
+Other Changes:
+- PageFly new product template assignment
+
+24.10.2024 - 1.0.1
+----------------------------
+New Features:
+- Bundles & Save Carousel above "Shop by Category" (homepage)
+- Available Offers (product page)
+- Cart discount announcement section (cart)
+- MRP Visibility (cart) 
+- Slash Price (cart)
+
+Fixed Bugs:
+- Rename "Estimated Total" to "Subtotal" (cart)
+
 22.10.2024 - 1.0.0
 ----------------------------
 New Features:
 - Hover effect on the links for desktop (header)
-- Bundles & Save Carousel above "Shop by Category" (homepage)
-- Share button on product cards
+- Share button on product cards (sitewide)
+- You Should Check this out reposition (product page)
+- Bundle PDP accordions (product page bundle)
 
 Fixed Bugs:
-- Add to Cart postioning should be symmetrical (homepage)
-- Fix the swipe indicator button from the shop by category carosuel (homepage)
-- Fix Carousel Arrow overlapping on header (homepage)
+- Add to Cart positioning should be symmetrical (homepage)
+- Fix the swipe indicator button from the shop by category carousel (homepage)
+- Fix Carousel Arrow overlapping on the header (homepage)
 - Product Card Sizing Fix on Small Screen Mobiles (sitewide)
 
 Other Changes:
